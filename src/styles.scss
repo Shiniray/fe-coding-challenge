@@ -1,0 +1,11 @@
+@import "~jsoneditor/dist/jsoneditor.min.css";
+@import '~bootstrap/scss/bootstrap.scss';
+
+body{
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

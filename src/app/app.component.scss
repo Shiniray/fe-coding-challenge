@@ -1,0 +1,6 @@
+::ng-deep .jsoneditor-poweredBy{
+  display: none;
+}
+::ng-deep .ace_editor.ace-jsoneditor {
+  min-height: 400px;
+}
